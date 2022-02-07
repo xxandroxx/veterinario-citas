@@ -1,0 +1,44 @@
+.contenedor-listado{
+    text-align: center;
+    width: 70rem;
+    
+    h2{
+        margin-bottom: 2rem;
+    }
+
+    p{
+        margin-bottom: 5rem;
+    }
+
+    span{
+        color: #8b06ac;
+        font-weight: 700;
+    }
+}
+
+.contenedor-pacientes{
+    height: 65rem;
+    overflow-y: scroll;
+}
+
+
+.contenido-listado{
+    padding: 3rem;
+    background-color: #fff;
+    border-radius: .5rem;
+    box-shadow: 0.2rem 0.5rem 0.5rem 0.1rem #b1b1b1;
+    width: 50rem;
+    text-align: justify;
+    margin: 0 auto;
+    margin-bottom: 2rem;
+
+
+    p{
+        font-weight: 700;
+    }
+
+    span{
+        color: #000;
+        font-weight: 400;
+    }
+}
